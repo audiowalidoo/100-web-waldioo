@@ -1,0 +1,7 @@
+{
+  "name": "Popular Websites",
+  "description": "Discover and launch over 100+ of the most popular websites worldwide with instant search, categories, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
